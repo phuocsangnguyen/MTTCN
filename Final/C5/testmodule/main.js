@@ -1,0 +1,5 @@
+const utils = require('./utils')
+const value1 = utils.sum(1, 2)
+const value2 = utils.devide(4, 2)
+console.log(value1)
+console.log(value2)
